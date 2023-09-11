@@ -1,0 +1,59 @@
+.common{border: 5px 5px 5px 100px solid white;height: 40px;
+  width: 50px;
+  margin: 0px;
+  position: absolute;
+  left:543px;
+  border-radius: 0 5px 5px 0;
+  padding-top: 20px;
+  top:8px;
+}
+.a{
+  background-color: green;
+  top:8.5px;
+  color: green;
+}
+div .a:hover{
+  transition: 0.3s;
+  width: 150px;
+  display: block;
+  color: white;
+  visibility:visible;
+  text-align: center;
+  cursor: pointer;
+}
+.b{
+  background-color: rgb(224, 59, 29);
+  color: rgb(224, 59, 29);
+}
+div .b:hover{
+  cursor: pointer;
+  transition: 0.3s;
+  width: 150px;
+  display: block;
+  color: white;
+  text-align: center;
+}
+.c{
+  background-color: black;
+  color: black;
+}
+div .c:hover{
+  cursor: pointer;
+  transition: 0.3s;
+  width: 150px;
+  display: block;
+  color: white;
+  text-align: center;
+}
+.d{
+  background-color: rgb(6, 183, 237);
+  color: rgb(6, 183, 237);
+}
+div .d:hover{
+  cursor: pointer;
+  transition: 0.3s;
+  width: 150px;
+  display: block;
+  color: white;
+  text-align: center;
+}

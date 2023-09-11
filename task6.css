@@ -1,0 +1,85 @@
+img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+img:hover{
+  background-color: rgb(255, 255, 255);
+  border: 5px solid rgb(0, 0, 0)
+}
+.a{
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  top:2rem;
+  left: -10rem;
+}
+.b{
+  position: relative;
+  top:3rem;
+  left: 35.5rem;
+  width: 30rem;
+  height: 2rem;
+}
+.b:focus{
+  background-color: lightgrey;
+}
+.c{
+  position: relative;
+  top:10rem;
+  left: 5rem;
+  width: 30rem;
+  height: 2rem;
+  background-color: rgb(76, 76, 185);
+  color: white;
+  text-align: center;
+}
+.c:hover{
+  background-color: rgb(83, 83, 157);
+  border: 2px solid black;
+}
+.d{
+  position: relative;
+  left: 2rem;
+}
+.e{
+  position: relative;
+  top:13rem;
+  left: -25.5rem;
+}
+label{
+  position: relative;
+  top:12.9rem;
+  left: -25.5rem;
+}
+.f{
+  border: 1px solid white;
+  padding-bottom: 5rem;
+  background-color: lightgrey;
+  position: relative;
+  top:14rem;
+  left: 35.5rem;
+  width: 32.5%;
+  height: 8px;
+}
+.g{
+  background-color: red;
+  color: white;
+  position: relative;
+  top: 25px;
+  /* padding: 5px; */
+  border-radius: 5px;
+  width: 60px;
+  height: 40px;
+  margin-left: 5px;
+}
+.g:hover{
+  background-color: rgb(200, 29, 29);
+}
+.h{
+  position: relative;
+  top: 8px;
+  left: 23.5rem;
+  display: block;
+  color: black;
+}

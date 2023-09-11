@@ -1,0 +1,40 @@
+.a{
+  border: 1px solid black;
+  padding: 5px;
+  width: 20%;
+}
+.b{
+  background-color: rgb(161, 213, 230);
+  border-collapse: collapse;
+  width: 150px;
+  color: darkblue;
+  font-size: 30px;
+}
+.b:hover{
+  color: white;
+  cursor: pointer;
+  background-color: orange;
+}
+.d{
+  position: absolute;
+  right: 40%;
+  bottom: 65%;
+}
+.d1{
+  position: absolute;
+  right: 60%;
+  bottom: 73%;
+}
+.e{
+  border-left: 1px solid darkblue;
+  background-color: lightgrey;
+  width: 150px;
+  color: darkblue;
+  font-size: 40px;
+  cursor: pointer;
+  padding: 0 5px 5px 0;
+}
+.e:hover{
+  color: white;
+  background-color: grey;
+}

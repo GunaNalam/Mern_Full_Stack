@@ -1,0 +1,9 @@
+td{border: solid black;width: 300px;padding: 15px;}
+        td.a {border-radius: 20px;}
+        td.b {border-radius: 40px;}
+        td.c {border-radius: 80px; width: 150;}
+        td.e {text-align: center; font-size: larger;}
+        table.d {background-color: rgb(28, 211, 28); 
+            border: solid black; margin: auto;}
+        table.e {border-spacing: 40px; margin: auto;
+            width: 50px;}

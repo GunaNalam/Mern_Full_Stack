@@ -1,0 +1,53 @@
+.a{
+  background-color: rgb(238, 97, 121);
+  margin: 5%;
+  height: 80%;
+  width: 80%;
+  position: relative;
+  left: 5%;
+  color: white;
+}
+.b{
+  background-color: rgb(157, 0, 26);
+  height: 70%;
+  width: 70%;
+  position: relative;
+  left: 15%;
+  top: 15%;
+}
+.c{
+  position: relative;
+  padding-left: 40px;
+  padding-top: 15px;
+  text-align: left;
+  color: white;
+}
+.d{
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.d:focus{
+  background-color: rgb(214, 197, 197);
+}
+.e{
+  position: relative;
+  left:20px;
+  top: 5px;
+  margin: 0;
+}
+.s{
+  width: 18rem;
+  height: 2.5rem;
+  position: relative;
+  left:10rem;
+  top: 1.5rem;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: black;
+  cursor: pointer;
+}
+.s:hover{
+  border: 2px solid rgb(0, 0, 0);
+  background-color: lightgrey;
+}
